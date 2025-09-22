@@ -1,0 +1,94 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.navbar ul{
+    list-style-type: none;
+    overflow:hidden;
+    padding-top: 3%;
+
+}
+
+.navbar a{
+    text-decoration: none;
+    padding: 50px;
+    color: black;
+    font-weight: bold;
+}
+
+.navbar li{
+    float:right;
+}
+
+#brand-logo{
+    position: absolute;
+    top:3%;
+    left:1%;
+}
+
+#ig-icon{
+    position: absolute;
+    top:15%;
+    left:95%;
+}
+
+#fg-lo{
+    position: absolute;
+    top:25%;
+    left:95%;
+}
+
+#x-lg{
+    position: absolute;
+    top:34%;
+    left:95%;
+}
+
+#ln-lo{
+position: absolute;
+top:43%;
+left:95%;
+}
+
+body{
+    background-color: rgb(218, 218, 203)
+}
+
+#first-pic{
+    position: absolute;
+    top:15%;
+    left:5%;
+    height: 180px;
+    width:450px;
+    border-radius: 10px;
+}
+
+#second-pic{
+    position: absolute;
+    top:60%;
+    left:50%;
+    width:450px;
+    height:180px;
+    border-radius: 10px;
+
+}
+
+#fourth-pic{
+    position: absolute;
+    top:15%;
+    left:50%;
+    height:180px;
+    width:450px;
+    border-radius: 10px;
+}
+
+#third-pic{
+    position: absolute;
+    top:60%;
+    left:5%;
+    height:180px;
+    width:450px;
+    border-radius: 10px;
+
+}
